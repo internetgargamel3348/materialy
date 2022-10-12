@@ -1,0 +1,4 @@
+baseURL = 'https://materialy.martinkolesnikov.xyz/'
+languageCode = 'en-us'
+title = 'Materiály 3.B'
+theme = 'lugo'
