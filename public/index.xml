@@ -1,13 +1,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>Materiály 3.B</title>
+	<title>Studijni materialy</title>
 	<link>https://materialy.martinkolesnikov.xyz/</link>
-	<description>Recent content on Materiály 3.B</description>
+	<description>Recent content on Studijni materialy</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
         <atom:link href="https://materialy.martinkolesnikov.xyz/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Cestina</title>
+		<link>https://materialy.martinkolesnikov.xyz/cestina/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://materialy.martinkolesnikov.xyz/cestina/</guid>
+		<description>&lt;h1 id=&#34;edgar-allan-poe-1809---1849&#34;&gt;Edgar Allan Poe (1809 - 1849)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;romantický spisovatel&lt;/li&gt;
+&lt;li&gt;Zil zivot alkoholika, stejne jako jeho otec&lt;/li&gt;
+&lt;li&gt;Vzal si za zenu svoji 13 letou sestrenici&lt;/li&gt;
+&lt;li&gt;Vlastne vytvoril horrorovy a detektivni zanr&lt;/li&gt;
+&lt;li&gt;Byl velmi oblibeny jako spisovatel a basnik&lt;/li&gt;
+&lt;li&gt;spisovatel dekadence&lt;/li&gt;
+&lt;li&gt;zakladatel hororové a detektivní literatury&lt;/li&gt;
+&lt;li&gt;detektiv Dupin - inspirace pro Sherlocka Holmese&lt;/li&gt;
+&lt;li&gt;Mluvní cvičení: Jáma a Kyvadlo, Vraždy v ulici Morgue (pravá řada)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;havran&#34;&gt;Havran&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Už nikdy víc&amp;rdquo; - refrén&lt;/li&gt;
+&lt;li&gt;Jedna z nejoblibenejsich basni sve doby&lt;/li&gt;
+&lt;li&gt;Vypravi o neexistenci posmrtneho zivota&lt;/li&gt;
+&lt;li&gt;Hlavni postava beduje nad smrti se lasky Eleanory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;jáma-a-kyvadlo&#34;&gt;Jáma a Kyvadlo&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Hlavni postava je odsouzena za kacirstvi ve spanelskem Toledu&lt;/li&gt;
+&lt;li&gt;Probouzi se v temne kobce, pokusi se ji zmerit - dvakrat zakopne a znovu usne&lt;/li&gt;
+&lt;li&gt;Zjisti, ze uprostred cely je hluboka jama, urcena pro jeji skon&lt;/li&gt;
+&lt;li&gt;Nasledne se probudi a je uvazan, nad nim klesa naostrene kyvadlo&lt;/li&gt;
+&lt;li&gt;Diky krysam se dostava tesne pryc&lt;/li&gt;
+&lt;li&gt;Rozhavi se steny se satanskymi vyjevy, hlavni postava je nucena skocit do jamy&lt;/li&gt;
+&lt;li&gt;Po skoku ji vsak chyta general Lassale, velitel napoleonske armady, ktera prave osvobodila Toledo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vrazda-v-ulici-morgue&#34;&gt;Vrazda v ulici Morgue&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;V ulici Morgue v Parizi se stala vrazda - dve zeny byly brutalne zavrazdeny&lt;/li&gt;
+&lt;li&gt;Novy detektiv C. Auguste Dupin prichazi na misto cinu, zjistuje ze vrah musel uteci oknem, vchodove dvere jsou zavrene a na miste jsou oranzove vlasy&lt;/li&gt;
+&lt;li&gt;Dupin dochazi k zaveru, ze vrahem musel byt nikdo jiny nez orangutan&lt;/li&gt;
+&lt;li&gt;Vydava proto inzerat, ve kterem uvadi ze nalezl orangutana&lt;/li&gt;
+&lt;li&gt;Prihlasi se namornik, Dupin usoudi, ze je nevinny a necha ho jit&lt;/li&gt;
+&lt;li&gt;Orangutan byl podrazdeny a kricici zeny, ktere se ho baly ho rozzurily jeste vice&lt;/li&gt;
+&lt;li&gt;Orangutan je umisten do zoo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;předčasný-pohřeb&#34;&gt;Předčasný pohřeb&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dilo zacina predmluvou, kde se autor rozepisuje nad realitou pohrbeni za ziva, ktera v jeho dobe byla velmi realna&lt;/li&gt;
+&lt;li&gt;Hlavni postava trpi nemoci, kvuli ktere nekdy upadne do stavu spanku bez znamek zivota&lt;/li&gt;
+&lt;li&gt;Velka cast dila je predevsim vypraveni o uzkostech hlavni postavy a o jeji paranoidni povaze&lt;/li&gt;
+&lt;li&gt;Nemoc se stupnuje a zhorsuje, hlavni postava proto zaridi rodinnou kobku tak, aby z ni bylo mozne uteci v pripade pohrbeni za ziva&lt;/li&gt;
+&lt;li&gt;Nakonec postava dostava zachvat sve nemoci a probouzi se v rakvi pod zemi&lt;/li&gt;
+&lt;li&gt;Nastesti jde pouze o sen, a po chvili se probudi znovu, obklopena svymi prateli&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;zrádná-srdce&#34;&gt;Zrádná srdce&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mladik zije se starym panen o ktereho pecuje, avsak ma neutuchajici tuzbu ho zabit kvuli oku, ktere vypada jak supi&lt;/li&gt;
+&lt;li&gt;Nekolikrat dokonce s nozem stoji nad starym panem v posteli, vzdy ma vsak oko zavrene&lt;/li&gt;
+&lt;li&gt;Jednou kdyz se k nemu plizi, tak zavrze podlaha a pan oko otevre, mladik ho nasledne bezmyslenkovite zabije&lt;/li&gt;
+&lt;li&gt;Starec hlasite zakricel, mladik ho zaklepe pod podlahu a misto zakryje kobercem&lt;/li&gt;
+&lt;li&gt;Na dvere klepaji policiste, kteri hlasi, ze slyseli vykrik&lt;/li&gt;
+&lt;li&gt;Mladik policisty pohosti, nabidne jim alkohol a obecne se s nimi socializuje&lt;/li&gt;
+&lt;li&gt;V hlave se mu vsak stupnuje imaginarni tlukot srdce, ktery predstavuje starce&lt;/li&gt;
+&lt;li&gt;Mladik nabiva dojmu, ze policie moc dobre vi o jeho zlocinu, byt to neni pravda&lt;/li&gt;
+&lt;li&gt;Nakonec hlasity tlukot srdce nezvlada a mladik vytrha parkety a priznava se k vrazde&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;sir-arthur-conan-doyle&#34;&gt;Sir Arthur Conan Doyle&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Autor Sherlocka Holmese&lt;/li&gt;
+&lt;li&gt;Povídka &lt;!-- raw HTML omitted --&gt;Skandál v Čechách&lt;!-- raw HTML omitted --&gt; - mluvní cvičení&lt;/li&gt;
+&lt;li&gt;Válečný zpravodaj, účastník búrské války&lt;/li&gt;
+&lt;li&gt;Věnoval se sportu&lt;/li&gt;
+&lt;li&gt;Psal historické, fantastické a detektivní díla&lt;/li&gt;
+&lt;li&gt;Britsky vlastenec, ziskal titul rytire (sira)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skandal-v-cechach&#34;&gt;Skandal v Cechach&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Za Sherlockem Holmesem prichazi prevleceny cesky slechtic, pravoplatny nastupnik trunu Zemi koruny Ceske&lt;/li&gt;
+&lt;li&gt;Slechtic se ma zenit, avsak drive mel pomer s pevkyni Irene Adlerovou, a ta hrozi ze dany fakt v den svatby vyzradi&lt;/li&gt;
+&lt;li&gt;S Watsonem prichistaji na Irene lecku, pri ktere se pokusi z jejiho bytu ziskat fotografii ji a slechtice&lt;/li&gt;
+&lt;li&gt;Sherlockovi se ji ukrast nedari, ale krali tvrdi, ze je velmi blizko jejimu ziskani&lt;/li&gt;
+&lt;li&gt;Kdyz znovu prichazi k Irene do bytu, zjistuje, ze ho poznala a uz se odstehovala - zaroven vsak slibila ze fotografii nezverejni&lt;/li&gt;
+&lt;li&gt;Jako odmenu chce Sherlock Holmes fotku Irene, aby nezapomnel na jeji duvtip a inteligenci&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;pet-pomerancovych-jaderek&#34;&gt;Pet pomerancovych jaderek&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Za Sherlockem Holmesem prichazi muz, kteremu dopisem prislo pet pomerancovych jaderek, stejne jako jeho predchudcum, ktery nasledne zemrel&lt;/li&gt;
+&lt;li&gt;Sherlock prichazi na fakt, ze jeho predchudcu byl clenem americke rasisticke teroristicke organizace KKK, ktera se snazi ziskat dokumenty, ktere jsou vsak jiz spaleny&lt;/li&gt;
+&lt;li&gt;Holmes muzi rika, aby na altan misto dokumentu polozi vysvetleni toho, co se stalo&lt;/li&gt;
+&lt;li&gt;Jeste predtim, nez se vsak muze stat muz umira, Holmes vydedukuje, ze dopisy byly poslany z lodi, ktera kotvi v pristavu, jeste predtim, nez chytne prislusniky organizace se vsak lod potopi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;posledni-pripad&#34;&gt;Posledni pripad&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Holmes vystopuje sveho odvekeho nepritele profesora Moriartyho k Reichenbasskym vodopadum&lt;/li&gt;
+&lt;li&gt;Prijde tam s dr. Watsonem, pro ktereho je vsak poslano, kvuli zdravotnim problemum nejakeho cloveka nedaleko a Holmes zustava u vodopadu sam&lt;/li&gt;
+&lt;li&gt;Utka se tam s profesorem Moriartym a udajne oba dva umiraji, Holmes vsak jen zdanlive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prazdny-dum&#34;&gt;Prazdny dum&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nejdulezitejsi je, ze se zde znovuobjevuje Sherloch Holmes, po 4 letech&lt;/li&gt;
+&lt;li&gt;Ten vysvetluje, ze u vodopadu zemrel jenom Moriarty a on se diky sve zdanlive smrti mohl ponorit do boje s evropskym zlocinem inkognito&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#Jules Verne (1828 - 1905)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DU - popis budouciho vynalezu&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Ekonomika</title>
@@ -29,27 +138,26 @@
 &lt;/ol&gt;
 &lt;h2 id=&#34;hodina-2--lidské-potřeby--15-9-2022&#34;&gt;Hodina 2. || LIDSKÉ POTŘEBY || 15. 9. 2022&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Lidské potřeby jsou nerovnováha, neuspokojení organismu, které se obvykle odstraní uspokojením potřeby&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;:
-&lt;ul&gt;
-&lt;li&gt;Primární potřeby ovlivňují život (jídlo, hydratace, ochrana před klimatem, příjem vzduchu, fyzická aktivita&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Sekundární potřeby neovlivňují život (individuálně mezi ně patří rozmnožování, kvalitnější verze primárních potřeb&amp;hellip;)&lt;/li&gt;
-&lt;li&gt;Ryze sekundární potřeby vůbec neovlivňují život, či jeho kvalitu (trávení volného času)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lidské potřeby jsou nerovnováha, neuspokojení organismu, které se obvykle odstraní uspokojením potřeby&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
+&lt;li&gt;
+&lt;p&gt;Primární potřeby ovlivňují život (jídlo, hydratace, ochrana před klimatem, příjem vzduchu, fyzická aktivita&amp;hellip;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sekundární potřeby neovlivňují život (individuálně mezi ně patří rozmnožování, kvalitnější verze primárních potřeb&amp;hellip;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;hodina-3--statky-a-služby--22-9-2022&#34;&gt;Hodina 3. || STATKY A SLUŽBY || 22. 9. 2022&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Mezi individuálními a kolektivními potřebami jsou výrazné kontradikce (doprava, zdravotní péče&amp;hellip;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Domácí úkol: 10 příkladů lidských potřeb (např.: Zdravotní péče - primární, fyzická, kolektivní)a 5 příkladů statků a 5 služeb
-==============================================&lt;/p&gt;
+&lt;p&gt;Domácí úkol: 10 příkladů lidských potřeb (např.: Zdravotní péče - primární, fyzická, kolektivní)a 5 příkladů statků a 5 služeb&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;==============================================&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Komunikace skrze socialni site - sekundarni - psychicka - individualni&lt;/p&gt;
@@ -109,27 +217,39 @@
 &lt;p&gt;Restaurace - osobni - prubeh&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Verejna doprava - osobni - vysledek&lt;br&gt;
-==============================================&lt;/p&gt;
+&lt;p&gt;Verejna doprava - osobni - vysledek&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;==============================================&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Statky jsou &lt;!-- raw HTML omitted --&gt;předměty&lt;!-- raw HTML omitted --&gt;, jejichž původcem je buď člověk, nebo příroda&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Statky&lt;/strong&gt; jsou &lt;!-- raw HTML omitted --&gt;předměty&lt;!-- raw HTML omitted --&gt;, jejichž původcem je buď člověk, nebo příroda&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Statky spotřebováváme, či používáme&lt;/li&gt;
-&lt;li&gt;Mohou být hmotné, nebo nehmotné (dopravní prostředky X duševní výtvory)&lt;/li&gt;
-&lt;li&gt;Volné a ekonomické (předměty bez omezení a nějakým způsobem omezené)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statky spotřebováváme, či používáme&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mohou být hmotné, nebo nehmotné (dopravní prostředky X duševní výtvory)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Volné a ekonomické (předměty bez omezení a nějakým způsobem omezené)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Služby jsou činnost jiných osob&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Služby&lt;/strong&gt; jsou činnost jiných osob&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Osobní a věcné (týkají se naší osoby, nebo se týkají předmětů)&lt;/li&gt;
-&lt;li&gt;Průběh X výsledek&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Osobní a věcné (týkají se naší osoby, nebo se týkají předmětů)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Průběh X výsledek&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;ul&gt;
-&lt;li&gt;Při uspokojování lidských potřeb se statky a služby kombinují (služba restaurace poskytuje statek jídla)&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Při uspokojování lidských potřeb se statky a služby kombinují (služba restaurace poskytuje statek jídla)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;hodina-4--práce-a-pracovní-proces--29-9-2022&#34;&gt;Hodina 4 || Práce a pracovní proces || 29. 9. 2022&lt;/h2&gt;
 &lt;ul&gt;
@@ -146,6 +266,15 @@
 &lt;li&gt;Prostredky postupne spotreby se postupne opotrebuji (nemeni se fyzicka podstata, nepredvari se ve vyrobek - stroje, nastroje, pristroje, budovy, pomucky&amp;hellip;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+	</item>
+	
+	<item>
+		<title>Obcanska Nauka</title>
+		<link>https://materialy.martinkolesnikov.xyz/obcanska-nauka/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://materialy.martinkolesnikov.xyz/obcanska-nauka/</guid>
+		<description></description>
 	</item>
 	
 	</channel>
