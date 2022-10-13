@@ -1,7 +1,13 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	background: #0a2d39;
+	color: white;
+}
+
+article{
+	border: 1px dashed #16617b;
+	border-radius: 15px;
+	padding: 15px;
 }
 
 main {
@@ -20,6 +26,15 @@ header h1 {
 footer {
 	text-align: center ;
 	clear: both ;
+	margin-top: 15px;
+}
+
+a{
+	color: white;
+}
+
+li{
+	padding: 10px 0px;
 }
 
 /* For TAGLIST.HTML */

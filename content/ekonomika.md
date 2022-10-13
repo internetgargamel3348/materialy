@@ -16,16 +16,16 @@ title: Ekonomika
 ## Hodina 2. || LIDSKÉ POTŘEBY || 15. 9. 2022
 
 + Lidské potřeby jsou nerovnováha, neuspokojení organismu, které se obvykle odstraní uspokojením potřeby
-1. :
-	+ Primární potřeby ovlivňují život (jídlo, hydratace, ochrana před klimatem, příjem vzduchu, fyzická aktivita...)
-	+ Sekundární potřeby neovlivňují život (individuálně mezi ně patří rozmnožování, kvalitnější verze primárních potřeb...)
-	+ Ryze sekundární potřeby vůbec neovlivňují život, či jeho kvalitu (trávení volného času) 
+
++ Primární potřeby ovlivňují život (jídlo, hydratace, ochrana před klimatem, příjem vzduchu, fyzická aktivita...)
++ Sekundární potřeby neovlivňují život (individuálně mezi ně patří rozmnožování, kvalitnější verze primárních potřeb...)
 
 ## Hodina 3. || STATKY A SLUŽBY || 22. 9. 2022
 
 + Mezi individuálními a kolektivními potřebami jsou výrazné kontradikce (doprava, zdravotní péče...)
 
 + Domácí úkol: 10 příkladů lidských potřeb (např.: Zdravotní péče - primární, fyzická, kolektivní)a 5 příkladů statků a 5 služeb
+
 ==============================================
 1. Komunikace skrze socialni site - sekundarni - psychicka - individualni
 2. Navsteva kavarny - sekundarni - psychicka - individualni
@@ -49,15 +49,23 @@ title: Ekonomika
 3. Bohosluzba - osobni - prubeh
 4. Restaurace - osobni - prubeh
 5. Verejna doprava - osobni - vysledek   
-==============================================
-+ Statky jsou <i>předměty</i>, jejichž původcem je buď člověk, nebo příroda
-1. Statky spotřebováváme, či používáme
-2. Mohou být hmotné, nebo nehmotné (dopravní prostředky X duševní výtvory)
-3. Volné a ekonomické (předměty bez omezení a nějakým způsobem omezené)
 
-+ Služby jsou činnost jiných osob
-1. Osobní a věcné (týkají se naší osoby, nebo se týkají předmětů)
-2. Průběh X výsledek 
+==============================================
+
++ **Statky** jsou <i>předměty</i>, jejichž původcem je buď člověk, nebo příroda
+
+	1. Statky spotřebováváme, či používáme
+
+	2. Mohou být hmotné, nebo nehmotné (dopravní prostředky X duševní výtvory)
+
+	3. Volné a ekonomické (předměty bez omezení a nějakým způsobem omezené)
+
++ **Služby** jsou činnost jiných osob
+	
+	1. Osobní a věcné (týkají se naší osoby, nebo se týkají předmětů)
+	
+	2. Průběh X výsledek 
+
 
 + Při uspokojování lidských potřeb se statky a služby kombinují (služba restaurace poskytuje statek jídla)
 
