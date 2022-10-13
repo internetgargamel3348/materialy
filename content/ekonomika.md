@@ -1,9 +1,6 @@
 ---
 title: Ekonomika	
 ---
-
-# Ekonomika
-
 ## Hodina 1. || ÚVODNÍ HODINA || 8. 9. 2022
 
 + Ekonomie je společenskovědní obor, který zkoumá hospodářské chování člověka (radí jak se vypořádat s ekonomikou).
@@ -52,18 +49,15 @@ title: Ekonomika
 
 ==============================================
 
-+ **Statky** jsou <i>předměty</i>, jejichž původcem je buď člověk, nebo příroda
++ **Statky** jsou *předměty*, jejichž původcem je buď člověk, nebo příroda
 
 	1. Statky spotřebováváme, či používáme
-
 	2. Mohou být hmotné, nebo nehmotné (dopravní prostředky X duševní výtvory)
-
 	3. Volné a ekonomické (předměty bez omezení a nějakým způsobem omezené)
 
 + **Služby** jsou činnost jiných osob
 	
 	1. Osobní a věcné (týkají se naší osoby, nebo se týkají předmětů)
-	
 	2. Průběh X výsledek 
 
 
@@ -75,8 +69,8 @@ title: Ekonomika
 + Pracovní proces je soubor činností, při kterém člověk nemusí být vždy přítomen (neúčast lidské práce)
 + Pracovní síla jsou dušení a tělesné schopnosti používané pro práci (například: spolehlivost, základní matematika, kreativita...)
 + Prostředky jednorázové spotřeby se přeměňují, vytváří novou fyzickou podstatu - obvykle se stávají produktem (material, energie, potraviny...)
-+ Cinnosti zvirat jsou rizeny pudy 
++ Činnosti zvířat jsou řízeny pudy 
 
-## Hodina 5 CINITELE PRACOVNIHO PROCESU 6. 10. 2022
-+ Pracovni sila se zjednodusene oznacuje jako zamestnanec
-+ Prostredky postupne spotreby se postupne opotrebuji (nemeni se fyzicka podstata, nepredvari se ve vyrobek - stroje, nastroje, pristroje, budovy, pomucky...) 
+## Hodina 5 || Činitelé pracovního procesu|| 6. 10. 2022
++ Pracovní sila se zjednodušeně označuje jako zaměstnanec
++ Prostředky postupné spotřeby se postupně opotřebují (nemění se fyzická podstata, nepřetváři se ve výrobek - stroje, nástroje, přístroje, budovy, pomůcky...) 

@@ -1,4 +1,4 @@
 ---
-title: "Obcanska Nauka"
+title: "Občanská nauka"
 ---
 

@@ -1,60 +1,57 @@
 ---
-title: "Cestina"
+title: "Literatura"
 ---
 
 # Edgar Allan Poe (1809 - 1849)
-+ romantický spisovatel
-+ Zil zivot alkoholika, stejne jako jeho otec
-+ Vzal si za zenu svoji 13 letou sestrenici
-+ Vlastne vytvoril horrorovy a detektivni zanr
-+ Byl velmi oblibeny jako spisovatel a basnik 
-+ spisovatel dekadence
-+ zakladatel hororové a detektivní literatury
-+ detektiv Dupin - inspirace pro Sherlocka Holmese
-+ Mluvní cvičení: Jáma a Kyvadlo, Vraždy v ulici Morgue (pravá řada)
++ Romantický spisovatel
++ Žil život alkoholika, stejně jako jeho otec
++ Vzal si za ženu svoji 13 letou sestřenicí
++ Vlastně vytvořil horrorový a detektivní žanr
++ Byl velmi oblibený jako spisovatel a básník 
++ Detektiv Dupin - inspirace pro Sherlocka Holmese
 
-## Havran
+### Havran
 + "Už nikdy víc" - refrén
-+ Jedna z nejoblibenejsich basni sve doby
-+ Vypravi o neexistenci posmrtneho zivota
-+ Hlavni postava beduje nad smrti se lasky Eleanory
++ Jedna z nejoblíbenějších básní své doby
++ Vypraví o neexistenci posmrtného života
++ Hlavní postava běduje nad smrtí své lásky Eleanory
 
-## Jáma a Kyvadlo
-+ Hlavni postava je odsouzena za kacirstvi ve spanelskem Toledu
-+ Probouzi se v temne kobce, pokusi se ji zmerit - dvakrat zakopne a znovu usne
-+ Zjisti, ze uprostred cely je hluboka jama, urcena pro jeji skon
-+ Nasledne se probudi a je uvazan, nad nim klesa naostrene kyvadlo
-+ Diky krysam se dostava tesne pryc
-+ Rozhavi se steny se satanskymi vyjevy, hlavni postava je nucena skocit do jamy
-+ Po skoku ji vsak chyta general Lassale, velitel napoleonske armady, ktera prave osvobodila Toledo
+### Jáma a Kyvadlo
++ Hlavni postava je odsouzena za kacířství ve španělském Toledu
++ Probouzí se v temné kobce, pokusí se ji změřit - dvakrát zakopne a znovu usne
++ Zjistí, že uprostřed cely je hluboká jama, určena pro jeho skon
++ Následně se probudí a je uvázán, nad nim klesá naostřené kyvadlo
++ Díky krysám se dostáva těsně pryč
++ Rožhaví se stěny se satanskými výjevy, hlavní postava je nucena skočit do jámy
++ Po skoku jí však chytá generál Lassale, velitel napoleonské armady, která právě osvobodila Toledo
 
-## Vrazda v ulici Morgue
-+ V ulici Morgue v Parizi se stala vrazda - dve zeny byly brutalne zavrazdeny
-+ Novy detektiv C. Auguste Dupin prichazi na misto cinu, zjistuje ze vrah musel uteci oknem, vchodove dvere jsou zavrene a na miste jsou oranzove vlasy
-+ Dupin dochazi k zaveru, ze vrahem musel byt nikdo jiny nez orangutan
-+ Vydava proto inzerat, ve kterem uvadi ze nalezl orangutana
-+ Prihlasi se namornik, Dupin usoudi, ze je nevinny a necha ho jit
-+ Orangutan byl podrazdeny a kricici zeny, ktere se ho baly ho rozzurily jeste vice
-+ Orangutan je umisten do zoo
+### Vražda v ulici Morgue
++ V ulici Morgue v Parizi se stala vražda - dvě ženy byly brutalně zavražděny holící břitvou
++ Nový detektiv C. Auguste Dupin přichází na místo činu, zjišťuje že vrah musel utéci oknem, vchodové dveře jsou zavřené a na místě jsou oranžové vlasy
++ Dupin dochází k závěru, že vrahem musel být nikdo jiný než orangutan
++ Vydavá proto inzerát, ve kterém uvádí že nalezl orangutana
++ Přihlásí se námořník, Dupin usoudí, že je nevinný a nechá ho jít
++ Orangutan byl podrážděný a křičící ženy, které se ho bály ho rozzuřily ještě více
++ Orangutan je umístěn do ZOO
 
-## Předčasný pohřeb
-+ Dilo zacina predmluvou, kde se autor rozepisuje nad realitou pohrbeni za ziva, ktera v jeho dobe byla velmi realna
-+ Hlavni postava trpi nemoci, kvuli ktere nekdy upadne do stavu spanku bez znamek zivota
-+ Velka cast dila je predevsim vypraveni o uzkostech hlavni postavy a o jeji paranoidni povaze
-+ Nemoc se stupnuje a zhorsuje, hlavni postava proto zaridi rodinnou kobku tak, aby z ni bylo mozne uteci v pripade pohrbeni za ziva
-+ Nakonec postava dostava zachvat sve nemoci a probouzi se v rakvi pod zemi
-+ Nastesti jde pouze o sen, a po chvili se probudi znovu, obklopena svymi prateli
+### Předčasný pohřeb
++ Dílo začíná předmluvou, kde se autor rozepisuje nad realitou pohřbení za živa, která v jeho dobe byla velmi reálná
++ Hlavní postava trpí nemocí, kvůli které někdy upadne do stavu spánku bez známek života
++ Velká část díla je především vyprávění o úzkostech hlavní postavy a o její paranoidní povaze
++ Nemoc se stupňuje a zhoršuje, hlavní postava proto zařídí rodinnou kobku tak, aby z ní bylo možné utéci v případě pohřbení za živa
++ Nakonec postava dostává záchvat své nemoci a probouzí se v rakvi pod zemí
++ Naštěstí jde pouze o sen, a po chvíli se probudí znovu, obklopena svými přáteli
 
-## Zrádná srdce
-+ Mladik zije se starym panen o ktereho pecuje, avsak ma neutuchajici tuzbu ho zabit kvuli oku, ktere vypada jak supi
-+ Nekolikrat dokonce s nozem stoji nad starym panem v posteli, vzdy ma vsak oko zavrene
-+ Jednou kdyz se k nemu plizi, tak zavrze podlaha a pan oko otevre, mladik ho nasledne bezmyslenkovite zabije
-+ Starec hlasite zakricel, mladik ho zaklepe pod podlahu a misto zakryje kobercem
-+ Na dvere klepaji policiste, kteri hlasi, ze slyseli vykrik
-+ Mladik policisty pohosti, nabidne jim alkohol a obecne se s nimi socializuje
-+ V hlave se mu vsak stupnuje imaginarni tlukot srdce, ktery predstavuje starce
-+ Mladik nabiva dojmu, ze policie moc dobre vi o jeho zlocinu, byt to neni pravda
-+ Nakonec hlasity tlukot srdce nezvlada a mladik vytrha parkety a priznava se k vrazde
+### Zrádná srdce
++ Mladík žije se starým pánem o kterého pečuje, avšak má neutuchající tužbu ho zabít kvůli oku, které vypadá jako supí
++ Několikrát dokonce s nožem stojí nad starým pánem v posteli, vždy má však oko zavřené
++ Jednou když se k němu plíží, tak zavrže podlaha a pan oko otevře, mladík ho následně bezmyšlenkovitě zabije
++ Stařec hlasitě zakřičel, mladík ho zaklepe pod podlahu a místo zakryje kobercem
++ Na dveře klepají policisté, kteří hlásí, že slyšeli výkřik
++ Mladík policisty pohostí, nabídne jim alkohol a obecně se s nimi socializuje
++ V hlavě se mu však stupňuje imaginarní tlukot srdce, který představuje starce
++ Mladík nabívá dojmu, že policie moc dobře ví o jeho zločinu, byť to není pravda
++ Nakonec hlasitý tlukot srdce nezvládá a mladík vytrhá parkety a přiznává se k vražde
 
 # Sir Arthur Conan Doyle
 + Autor Sherlocka Holmese
@@ -62,30 +59,30 @@ title: "Cestina"
 + Válečný zpravodaj, účastník búrské války
 + Věnoval se sportu
 + Psal historické, fantastické a detektivní díla
-+ Britsky vlastenec, ziskal titul rytire (sira)
++ Britský vlastenec, získal titul rytíře (sira)
 
-## Skandal v Cechach
-+ Za Sherlockem Holmesem prichazi prevleceny cesky slechtic, pravoplatny nastupnik trunu Zemi koruny Ceske
-+ Slechtic se ma zenit, avsak drive mel pomer s pevkyni Irene Adlerovou, a ta hrozi ze dany fakt v den svatby vyzradi
-+ S Watsonem prichistaji na Irene lecku, pri ktere se pokusi z jejiho bytu ziskat fotografii ji a slechtice
-+ Sherlockovi se ji ukrast nedari, ale krali tvrdi, ze je velmi blizko jejimu ziskani
-+ Kdyz znovu prichazi k Irene do bytu, zjistuje, ze ho poznala a uz se odstehovala - zaroven vsak slibila ze fotografii nezverejni
-+ Jako odmenu chce Sherlock Holmes fotku Irene, aby nezapomnel na jeji duvtip a inteligenci
+### Skandál v Čechách
++ Za Sherlockem Holmesem přichází převlečený český šlechtic, právoplatný nástupník trůnu Zemí koruny České
++ Šlechtic se má ženit, avšak dříve měl poměr s pěvkyní Irene Adlerovou, a ta hrozí ze daný fakt v den svatby vyzradí
++ S Watsonem přichistají na Irene léčku, při které se pokusí z jejího bytu získat fotografii jí a šlechtice
++ Sherlockovi se jí ukrást nedaří, ale králi tvrdí, že je velmi blízko jejímu získání
++ Když znovu přichází k Irene do bytu, zjišťuje, že ho poznala a už se odstěhovala - zároveň však slíbila že fotografii nezveřejní
++ Jako odměnu chce Sherlock Holmes fotku Irene, aby nezapomněl na její důvtip a inteligenci
 
-## Pet pomerancovych jaderek
-+ Za Sherlockem Holmesem prichazi muz, kteremu dopisem prislo pet pomerancovych jaderek, stejne jako jeho predchudcum, ktery nasledne zemrel
-+ Sherlock prichazi na fakt, ze jeho predchudcu byl clenem americke rasisticke teroristicke organizace KKK, ktera se snazi ziskat dokumenty, ktere jsou vsak jiz spaleny
-+ Holmes muzi rika, aby na altan misto dokumentu polozi vysvetleni toho, co se stalo
-+ Jeste predtim, nez se vsak muze stat muz umira, Holmes vydedukuje, ze dopisy byly poslany z lodi, ktera kotvi v pristavu, jeste predtim, nez chytne prislusniky organizace se vsak lod potopi
+### Pět pomerančových jadérek
++ Za Sherlockem Holmesem přichází muž, kterému dopisem přišlo pět pomerančových jadérek, stejně jako jeho předchůdcům, kteří nasledně zemřeli
++ Sherlock přichází na fakt, že jeden z jeho předchůdců byl členem americké rasistické teroristické organizace KKK, která se snaží získat dokumenty, které jsou však již spáleny
++ Holmes muži říká, aby na altán místo dokumentu položil vysvětlení toho, co se stalo
++ Ještě předtím, než se však tak může stát muž umírá, Holmes vydedukuje, že dopisy byly poslány z lodi, která kotví v přístavu, ještě předtím, než chytne příslušníky organizace se však loď potopí
 
-## Posledni pripad
-+ Holmes vystopuje sveho odvekeho nepritele profesora Moriartyho k Reichenbasskym vodopadum
-+ Prijde tam s dr. Watsonem, pro ktereho je vsak poslano, kvuli zdravotnim problemum nejakeho cloveka nedaleko a Holmes zustava u vodopadu sam
-+ Utka se tam s profesorem Moriartym a udajne oba dva umiraji, Holmes vsak jen zdanlive
+### Poslední případ
++ Holmes vystopuje svého odvěkého nepřítele profesora Moriartyho k Reichenbašským vodopádům
++ Přijde tam s dr. Watsonem, pro kterého je však posláno, kvůli zdravotním problémům nějakého člověka nedaleko a Holmes zůstavá u vodopádu sám
++ Utká se tam s profesorem Moriartym a údajně oba dva umírají, Holmes však jen zdánlivě
 
-## Prazdny dum
-+ Nejdulezitejsi je, ze se zde znovuobjevuje Sherloch Holmes, po 4 letech
-+ Ten vysvetluje, ze u vodopadu zemrel jenom Moriarty a on se diky sve zdanlive smrti mohl ponorit do boje s evropskym zlocinem inkognito 
+### Prázdný dům
++ Nejdůležitější je, že se zde znovuobjevuje Sherlock Holmes, po 4 letech
++ Ten vysvětluje, že u vodopádů zemrel jenom Moriarty a on se díky své zdánlivé smrti mohl ponořit do boje s evropským zločinem inkognito 
 
-#Jules Verne (1828 - 1905)
+# Jules Verne (1828 - 1905)
 - DU - popis budouciho vynalezu 
