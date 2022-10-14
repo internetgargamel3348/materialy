@@ -1,5 +1,5 @@
 ---
-title: Ekonomika	
+title: Ekonomika 💰 	
 ---
 ## Hodina 1. || ÚVODNÍ HODINA || 8. 9. 2022
 

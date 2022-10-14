@@ -5,7 +5,7 @@ body {
 }
 
 article{
-	border: 1px dashed #16617b;
+		border: 2px dashed #16617b;
 	border-radius: 15px;
 	padding: 15px;
 }
@@ -31,6 +31,7 @@ footer {
 
 a{
 	color: white;
+	font-size: 110%;
 }
 
 li{

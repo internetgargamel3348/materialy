@@ -1,4 +1,4 @@
 ---
-title: "Občanská nauka"
+title: "Občanská nauka 🏛️" 
 ---
 

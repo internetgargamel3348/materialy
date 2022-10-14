@@ -1,5 +1,5 @@
 ---
-title: "Literatura"
+title: "Literatura 📚"
 ---
 
 # Edgar Allan Poe (1809 - 1849)
