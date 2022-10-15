@@ -149,6 +149,28 @@
 	</item>
 	
 	<item>
+		<title>Latina 📜</title>
+		<link>https://materialy.martinkolesnikov.xyz/latina/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://materialy.martinkolesnikov.xyz/latina/</guid>
+		<description>&lt;p&gt;Tyto materiály vychází z &lt;strong&gt;Dowlingovy metody&lt;/strong&gt;, která se používá pro individuální se učení latiny a starověké řečtiny.&lt;/p&gt;
+&lt;p&gt;Postupem času zde budou přibývat vysvětlení různých gramatických konceptů a části knih, ze kterých budu čerpat. (v současnosti se jedná pouze o knihu &lt;em&gt;Lingua Latina per se Illustrata&lt;/em&gt; a encyklopedii &lt;em&gt;Etymologiae&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Magnum est imperium Romanum!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;pády&#34;&gt;Pády&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Nominativ (kdo, co?) - zpravidla podmět věty&lt;/li&gt;
+&lt;li&gt;Genitiv (koho, čeho?) - zpravidla poukazuje na vlastnictvi (&lt;em&gt;Martinův&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Dativ (komu, čemu?) - nepřímý předmět věty (Učitel dává knížku &lt;em&gt;žákovi&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Akuzativ (koho, čeho?) - předmět věty&lt;/li&gt;
+&lt;li&gt;Vokativ (oslovování, volání)&lt;/li&gt;
+&lt;li&gt;Ablativ (kým, čím, kom, čem) - absolutně netuším jak to v latině funguje&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Literatura 📚</title>
 		<link>https://materialy.martinkolesnikov.xyz/cestina/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -255,7 +277,7 @@
 	</item>
 	
 	<item>
-		<title>Matematika</title>
+		<title>Matematika 🧮</title>
 		<link>https://materialy.martinkolesnikov.xyz/matematika/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 		

@@ -1,5 +1,5 @@
 ---
-title: "Matematika"
+title: "Matematika 🧮"
 ---
 # Vzorečky
 
