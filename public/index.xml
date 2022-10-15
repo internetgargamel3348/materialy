@@ -285,7 +285,7 @@
 &lt;h3 id=&#34;kužel&#34;&gt;Kužel&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;V = (π * r² * v) / 3&lt;/li&gt;
-&lt;li&gt;S = π * r * (r + √r² * √v²)&lt;/li&gt;
+&lt;li&gt;S = π * r * (r + √r² + √v²)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>

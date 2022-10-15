@@ -28,5 +28,5 @@ Kolekce vzorečků pro skupinu *Beta* v Matematice
 ### Kužel
 
 + V = (π * r² * v) / 3
-+ S = π * r * (r + √r² * √v²)
++ S = π * r * (r + √r² + √v²)
 ---
