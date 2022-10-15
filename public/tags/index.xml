@@ -255,6 +255,43 @@
 	</item>
 	
 	<item>
+		<title>Matematika</title>
+		<link>https://materialy.martinkolesnikov.xyz/matematika/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://materialy.martinkolesnikov.xyz/matematika/</guid>
+		<description>&lt;h1 id=&#34;vzorečky&#34;&gt;Vzorečky&lt;/h1&gt;
+&lt;p&gt;Kolekce vzorečků pro skupinu &lt;em&gt;Beta&lt;/em&gt; v Matematice&lt;/p&gt;
+&lt;h3 id=&#34;krychle&#34;&gt;Krychle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V = a³&lt;/li&gt;
+&lt;li&gt;S = 6 * a²&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kvádr&#34;&gt;Kvádr&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V = a * b * c&lt;/li&gt;
+&lt;li&gt;S = 2 * (ab + bc + ac)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;válec&#34;&gt;Válec&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V = π * r² * v&lt;/li&gt;
+&lt;li&gt;S = 2 * π * r * (r + v)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pravidelný-čtyřboký-jehlan&#34;&gt;Pravidelný čtyřboký jehlan&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V = (a² * v) / 3&lt;/li&gt;
+&lt;li&gt;S = a² + 2 * a * v [výška strany]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kužel&#34;&gt;Kužel&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;V = (π * r² * v) / 3&lt;/li&gt;
+&lt;li&gt;S = π * r * (r + √r² * √v²)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Občanská nauka 🏛️</title>
 		<link>https://materialy.martinkolesnikov.xyz/obcanska-nauka/</link>
 		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
