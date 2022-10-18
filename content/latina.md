@@ -17,3 +17,17 @@ Postupem času zde budou přibývat vysvětlení různých gramatických koncept
 4. Akuzativ (koho, čeho?) - předmět věty
 5. Vokativ (oslovování, volání)
 6. Ablativ (kým, čím, kom, čem) - absolutně netuším jak to v latině funguje
+
+---
+# Deklinace
+
+Vlastně takové vzory pro skloňování slov v latině. Máme jich pět (jsou stejné u podst. a příd. jmen).
+
+### 1. deklinace
+*Vzorové slovo porta - brána*
+
+- Nom. sg. = porta
+- Gen. sg. = portae
+- Dat. sg. = portae
+- Aku. sg. = portam
+- Abl. sg. = porta
